@@ -1,0 +1,37 @@
+{
+  "promptDelete": false,
+  "showFrontmatter": false,
+  "showLineNumber": true,
+  "trashOption": "system",
+  "newFileLocation": "root",
+  "showUnsupportedFiles": true,
+  "spellcheck": false,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 85
+  },
+  "attachmentFolderPath": "./ref",
+  "spellcheckDictionary": [
+    "VSEPR",
+    "Debye",
+    "Pauling",
+    "intermoleculer",
+    "Daron",
+    "Shatin",
+    "dailos",
+    "Cheuk",
+    "golgi",
+    "rE",
+    "rER"
+  ],
+  "legacyEditor": false,
+  "livePreview": true,
+  "useTab": true,
+  "tabSize": 3,
+  "communityThemeSortOrder": "download",
+  "communityPluginSortOrder": "download",
+  "newLinkFormat": "relative"
+}

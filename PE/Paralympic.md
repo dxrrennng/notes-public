@@ -1,0 +1,7 @@
+# Reflection on the Paralympics
+### Ng Cheuk Yin Darren
+
+After watching a few videos on the Paralympics events and understanding how their equipment works, I'm surprised at how they can cope with their disabilities and strive for the best. Even if they have disabilities, they try to overcome the obstacles that their disabilities brought to them and play the sports in an altered way.
+I'm also impressed at the development of sports for disabled athletes. Designers and Officials try to think of rules and also create different personalized equipments for the athletes to play as good as they could on the field.
+Take ice hockey as an example, sitting sleds are made with single or double blades that allow disabled athletes to sit on and manoeuvrer around the playing ground during the competition. Their hockey stick is also personalized such that one end have teeth that allow them to move on the ice floor freely, while the other side has the paddle for them to hit the hockey disc.
+After watching the introduction to Paralympics, I've learnt that we should never give up as there is always a way to overcome the obstacle. I've also learnt that we can help the disabled community by creating equipments that can tackle their needs.

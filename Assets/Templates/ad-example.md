@@ -1,0 +1,4 @@
+```ad-example
+title: {{title}}
+
+```

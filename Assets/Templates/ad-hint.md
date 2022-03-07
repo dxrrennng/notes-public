@@ -1,0 +1,4 @@
+```ad-hint
+title: {{title}}
+
+```

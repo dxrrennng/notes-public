@@ -1,0 +1,81 @@
+{
+  "settings_version": "0.11.0",
+  "debug": false,
+  "obsidian_command_palette_prefix": "Execute: ",
+  "preview_variables_in_command_palette": true,
+  "show_autocomplete_menu": true,
+  "working_directory": "C:\\Users\\darre\\AppData\\Local\\Programs\\Python\\Python310\\Scripts",
+  "default_shells": {
+    "win32": "CMD.EXE"
+  },
+  "error_message_duration": 20,
+  "notification_message_duration": 10,
+  "output_channel_clipboard_also_outputs_to_notification": true,
+  "enable_events": true,
+  "shell_commands": {
+    "0": {
+      "platform_specific_commands": {
+        "default": "obs2mk --obsidian"
+      },
+      "shells": {},
+      "alias": "Publish",
+      "confirm_execution": true,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "ignore",
+        "stderr": "notification"
+      },
+      "output_channel_order": "stdout-first",
+      "events": {},
+      "command_palette_availability": "enabled"
+    },
+    "1": {
+      "platform_specific_commands": {
+        "default": "obs2mk --obsidian file {{file_path:absolute}}"
+      },
+      "shells": {},
+      "alias": "Publish {{title}}",
+      "confirm_execution": true,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "ignore",
+        "stderr": "notification"
+      },
+      "output_channel_order": "stdout-first",
+      "events": {},
+      "command_palette_availability": "enabled"
+    },
+    "2": {
+      "platform_specific_commands": {
+        "default": "obs2mk --obsidian file \"{{event_file_path:absolute}}"
+      },
+      "shells": {},
+      "alias": "Publish {{event_file_name}}",
+      "confirm_execution": true,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "ignore",
+        "stderr": "notification"
+      },
+      "output_channel_order": "stdout-first",
+      "events": {},
+      "command_palette_availability": "enabled"
+    },
+    "3": {
+      "platform_specific_commands": {
+        "default": "obs2mk --obsidian file \"{{event_folder_path:relative}}\\{{event_folder_name}}.md\""
+      },
+      "shells": {},
+      "alias": "Publish {{event_folder_name}}",
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "ignore",
+        "stderr": "notification"
+      },
+      "output_channel_order": "stdout-first",
+      "events": {},
+      "command_palette_availability": "enabled"
+    }
+  }
+}
