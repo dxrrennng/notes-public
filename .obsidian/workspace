@@ -14,16 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "7d2d3d6024255548",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "Economics/Economics_for_the_IB_Diploma_-_Tragakes.pdf"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -51,8 +41,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#skills",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -89,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301,
-    "collapsed": true
+    "width": 301
   },
   "right": {
     "id": "71ab7311cda16da1",
@@ -156,8 +145,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "84a919f1c433d1b1",
@@ -176,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271,
-    "collapsed": true
+    "width": 271
   },
   "active": "f9b1ab86f5c02acb",
   "lastOpenFiles": [

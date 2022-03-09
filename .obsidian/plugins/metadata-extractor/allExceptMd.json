@@ -41,12 +41,12 @@
       "relativePath": "Music"
     },
     {
-      "name": "Physics",
-      "relativePath": "Physics"
-    },
-    {
       "name": "PE",
       "relativePath": "PE"
+    },
+    {
+      "name": "Physics",
+      "relativePath": "Physics"
     },
     {
       "name": "ref",
@@ -89,12 +89,12 @@
       "relativePath": "Chemistry/3 Chemical bonding and structures"
     },
     {
-      "name": "4 Measurement and Data processing",
-      "relativePath": "Chemistry/4 Measurement and Data processing"
-    },
-    {
       "name": "5 Stoichiometric Relationship",
       "relativePath": "Chemistry/5 Stoichiometric Relationship"
+    },
+    {
+      "name": "4 Measurement and Data processing",
+      "relativePath": "Chemistry/4 Measurement and Data processing"
     },
     {
       "name": "NOTES",
@@ -252,14 +252,14 @@
       "relativePath": "CAS/CAS Reflection Day 2.pdf"
     },
     {
-      "name": "CAS Reflection Day 3 - Basketball and snooker.pdf",
-      "basename": "CAS Reflection Day 3 - Basketball and snooker",
-      "relativePath": "CAS/CAS Reflection Day 3 - Basketball and snooker.pdf"
-    },
-    {
       "name": "CAS Reflection Day 3 - Drama.pdf",
       "basename": "CAS Reflection Day 3 - Drama",
       "relativePath": "CAS/CAS Reflection Day 3 - Drama.pdf"
+    },
+    {
+      "name": "CAS Reflection Day 3 - Basketball and snooker.pdf",
+      "basename": "CAS Reflection Day 3 - Basketball and snooker",
+      "relativePath": "CAS/CAS Reflection Day 3 - Basketball and snooker.pdf"
     },
     {
       "name": "CAS Reflection Day 4 - Drama.pdf",
@@ -432,14 +432,14 @@
       "relativePath": "Music/Chorale2_NgCheukYinDarren.mid"
     },
     {
-      "name": "Music new counterpoint.pptx",
-      "basename": "Music new counterpoint",
-      "relativePath": "Music/Music new counterpoint.pptx"
-    },
-    {
       "name": "Chorale2_NgCheukYinDarren.pdf",
       "basename": "Chorale2_NgCheukYinDarren",
       "relativePath": "Music/Chorale2_NgCheukYinDarren.pdf"
+    },
+    {
+      "name": "Music new counterpoint.pptx",
+      "basename": "Music new counterpoint",
+      "relativePath": "Music/Music new counterpoint.pptx"
     },
     {
       "name": "Music test prep.pdf",
@@ -482,14 +482,14 @@
       "relativePath": "PE/poster.png"
     },
     {
-      "name": "Pasted image 20220304083518.png",
-      "basename": "Pasted image 20220304083518",
-      "relativePath": "ref/Pasted image 20220304083518.png"
-    },
-    {
       "name": "Pasted image 20220304083403.png",
       "basename": "Pasted image 20220304083403",
       "relativePath": "ref/Pasted image 20220304083403.png"
+    },
+    {
+      "name": "Pasted image 20220304083518.png",
+      "basename": "Pasted image 20220304083518",
+      "relativePath": "ref/Pasted image 20220304083518.png"
     },
     {
       "name": "WhatsApp Image 2022-02-15 at 09.47.45.jpg",
@@ -667,16 +667,6 @@
       "relativePath": "Chemistry/3 Chemical bonding and structures/Topic_3-2_Chemical_bondings_and_structures_Covalent_bonding.pdf"
     },
     {
-      "name": "G10_IB_Bridging_Chemistry_Topic_4.1_Uncertainties_and_errors_Slides.pdf",
-      "basename": "G10_IB_Bridging_Chemistry_Topic_4.1_Uncertainties_and_errors_Slides",
-      "relativePath": "Chemistry/4 Measurement and Data processing/G10_IB_Bridging_Chemistry_Topic_4.1_Uncertainties_and_errors_Slides.pdf"
-    },
-    {
-      "name": "Topic_4_Measurement_and_data_processing.pdf",
-      "basename": "Topic_4_Measurement_and_data_processing",
-      "relativePath": "Chemistry/4 Measurement and Data processing/Topic_4_Measurement_and_data_processing.pdf"
-    },
-    {
       "name": "5.2 and 5.3 Assignment Answer.pdf",
       "basename": "5.2 and 5.3 Assignment Answer",
       "relativePath": "Chemistry/5 Stoichiometric Relationship/5.2 and 5.3 Assignment Answer.pdf"
@@ -690,6 +680,16 @@
       "name": "Topic_5_Stoichiometric_relationships.pdf",
       "basename": "Topic_5_Stoichiometric_relationships",
       "relativePath": "Chemistry/5 Stoichiometric Relationship/Topic_5_Stoichiometric_relationships.pdf"
+    },
+    {
+      "name": "G10_IB_Bridging_Chemistry_Topic_4.1_Uncertainties_and_errors_Slides.pdf",
+      "basename": "G10_IB_Bridging_Chemistry_Topic_4.1_Uncertainties_and_errors_Slides",
+      "relativePath": "Chemistry/4 Measurement and Data processing/G10_IB_Bridging_Chemistry_Topic_4.1_Uncertainties_and_errors_Slides.pdf"
+    },
+    {
+      "name": "Topic_4_Measurement_and_data_processing.pdf",
+      "basename": "Topic_4_Measurement_and_data_processing",
+      "relativePath": "Chemistry/4 Measurement and Data processing/Topic_4_Measurement_and_data_processing.pdf"
     },
     {
       "name": "2.1 Periodic table.pdf",
