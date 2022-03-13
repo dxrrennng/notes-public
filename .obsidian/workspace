@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Econ exercise 20220309.md",
-            "mode": "preview",
+            "file": "Skills/20220310 Skills Reflection.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Econ exercise 20220309.md"
+                "file": "Skills/20220310 Skills Reflection.md"
               }
             }
           }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Econ exercise 20220309.md",
+                "file": "Skills/20220310 Skills Reflection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Econ exercise 20220309.md",
+                "file": "Skills/20220310 Skills Reflection.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -168,15 +168,15 @@
   },
   "active": "f9b1ab86f5c02acb",
   "lastOpenFiles": [
-    "Econ exercise 20220309.md",
+    "Skills/20220310 Skills Reflection.md",
     "Economics/Economics_for_the_IB_Diploma_-_Tragakes.pdf",
+    "Chemistry/5 Stoichiometric Relationship/5.3 Extra exercise.md",
+    "Econ exercise 20220309.md",
     "ibdpobsidian.md",
     "index.md",
     "Physics/waves/32 Electromagnetic wave.pdf",
     "Physics/waves/30 Total internal reflection.pdf",
     "Physics/waves/29 Refraction.pdf",
-    "Physics/waves/28 Plane mirror.pdf",
-    "Physics/waves/27 Reflection.pdf",
-    "Physics/waves/26 Light ray.pdf"
+    "Physics/waves/28 Plane mirror.pdf"
   ]
 }
